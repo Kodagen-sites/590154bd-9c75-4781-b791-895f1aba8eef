@@ -1,0 +1,16 @@
+{
+  "bucket": "site-assets",
+  "projectId": "590154bd-9c75-4781-b791-895f1aba8eef",
+  "ref": "",
+  "images": {
+    "og-image": "https://images.unsplash.com/photo-1611564494260-6f21b80af7ea?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw1fHxsYXR0ZSUyMGFydCUyMHNwZWNpYWx0eSUyMGNvZmZlZXxlbnwxfDB8fHwxNzgzNzUxNzg2fDA&ixlib=rb-4.1.0&w=1200&h=630&fit=crop&q=80&auto=format",
+    "section-cta": "https://images.unsplash.com/photo-1660203861072-318f2c468d94?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw3fHx3YXJtJTIwY29mZmVlJTIwc2hvcCUyMGludGVyaW9yJTIwbW9ybmluZyUyMGxpZ2h0fGVufDF8MHx8fDE3ODM3NTE3ODZ8MA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "section-hero": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHwxfHxzcGVjaWFsdHklMjBjb2ZmZWUlMjBiZWFucyUyMHJvYXN0aW5nJTIwY2xvc2V1cHxlbnwxfDB8fHwxNzgzNzUxNzg2fDA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "section-about": "https://images.unsplash.com/photo-1558618666-7e3528d215c3?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw2fHxhcnRpc2FuJTIwY29mZmVlJTIwcm9hc3RlciUyMGF0JTIwd29ya3xlbnwxfDB8fHwxNzgzNzUxNzg2fDA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "service-wholesale-roasting": "https://images.unsplash.com/photo-1655475782112-a6302e5b415f?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw1fHxjb21tZXJjaWFsJTIwY29mZmVlJTIwcm9hc3RlciUyMG1hY2hpbmV8ZW58MXwwfHx8MTc4Mzc1MTc4N3ww&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "service-barista-workshops": "https://images.unsplash.com/photo-1547240089-0b75465f8e80?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw4fHxiYXJpc3RhJTIwd29ya3Nob3AlMjBsYXR0ZSUyMGFydCUyMHRyYWluaW5nfGVufDF8MHx8fDE3ODM3NTE3ODd8MA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format"
+  },
+  "videos": {},
+  "frames": {},
+  "updatedAt": "2026-07-11T06:36:27.810Z"
+}

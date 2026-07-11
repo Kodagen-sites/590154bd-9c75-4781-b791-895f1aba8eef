@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: "Lora", serif;
+  --font-body: "Nunito", sans-serif;
+
+  --color-primary: #C4794A;
+  --color-accent: #8B6B3D;
+  --color-bg: #FDF6F0;
+  --color-surface: #FFF8F2;
+  --color-dark: #2D1810;
+  --color-muted: #6B5A4E;
+
+  --bg-primary: #FDF6F0;
+  --bg-secondary: #FFF8F2;
+  --bg-tertiary: #F5EDE5;
+  --bg-accent: #2D1810;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-bg);
+  color: var(--color-dark);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+}
+
+.section-pad {
+  padding-block: clamp(48px, 6vw, 96px);
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

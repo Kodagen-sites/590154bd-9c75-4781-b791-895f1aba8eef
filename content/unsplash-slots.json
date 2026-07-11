@@ -1,0 +1,9 @@
+[
+  { "slot": "section-hero", "keyword": "specialty coffee beans roasting closeup", "orientation": "landscape" },
+  { "slot": "section-about", "keyword": "artisan coffee roaster at work", "orientation": "landscape" },
+  { "slot": "section-cta", "keyword": "warm coffee shop interior morning light", "orientation": "landscape" },
+  { "slot": "og-image", "keyword": "latte art specialty coffee", "orientation": "landscape", "w": 1200, "h": 630 },
+  { "slot": "service-single-origin-beans", "keyword": "single origin coffee beans burlap sack", "orientation": "landscape" },
+  { "slot": "service-wholesale-roasting", "keyword": "commercial coffee roaster machine", "orientation": "landscape" },
+  { "slot": "service-barista-workshops", "keyword": "barista workshop latte art training", "orientation": "landscape" }
+]
